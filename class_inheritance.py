@@ -8,6 +8,6 @@ class child(Parent):
 		print "child Constructer"
 	def childMethod(self):
 		print "child method"
-c=child()
-c.childMethod()
+a=child()
+a.childMethod()
 
